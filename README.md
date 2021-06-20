@@ -1,6 +1,8 @@
-## Python framework to throw notifications to Windows Toaster
+# WinPyNotify
 
-### Usage
+A Python framework to throw notifications to Windows Toaster.
+
+## Usage
 
 ```python
 from winpynotify import win_notify as notifier
